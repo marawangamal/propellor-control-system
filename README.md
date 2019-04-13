@@ -10,7 +10,7 @@
 
 ##
 
-[![IMAGE ALT TEXT](cover.png)](http://www.youtube.com/watch?v=https://youtu.be/6NscMEbjdvo "Video Title")
+[![IMAGE ALT TEXT](cover.png)](https://www.youtube.com/watch?v=6NscMEbjdvo&feature=youtu.be "Video Title")
 
 
  
